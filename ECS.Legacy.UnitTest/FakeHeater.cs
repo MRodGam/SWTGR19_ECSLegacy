@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ECS.Legacy.UnitTest
 {
-    public class Class1
+    class FakeHeater
     {
     }
 }
